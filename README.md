@@ -9,8 +9,6 @@ Welcome to my GitHub profile. I have a deep passion for all things tech. You'll 
 
 ⚡ **Fun Fact:** Did you know that iron is unnatural to the earth? It's actually from meteorites that struck the earth a long time ago! 👀
 
-![Amina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
-
 ## Recent Work
 
 ### [An Introductory Piece on Python Functions](https://github.com/Aminaa27/From-Greetings-to-Serenades-A-Brief-Introduction-to-Python-Functions)
