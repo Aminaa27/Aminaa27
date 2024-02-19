@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile. I have a deep passion for all things tech. You'll find a collection of my projects, contributions, and more here.
 
-🌱 **Currently Learning:** Python/Java/C++ 
+🌱 **Currently Learning:** Full-Stack Development 
 
 📫 **How to reach me:** [Contact via Email](mailto:amina.ahmed2798@gmail.com)
 
